@@ -1,0 +1,407 @@
+"","Game","Mentions Before + After"
+"1","Grand Theft Auto V",0.277
+"2","Fallout 4",0.239
+"3","Portal 2",0.231
+"4","The Elder Scrolls V: Skyrim",0.227
+"5","Call of Duty: Black Ops",0.102
+"6","Diablo III",0.085
+"7","Borderlands 2",0.079
+"8","Battlefield 3",0.076
+"9","Overwatch",0.076
+"10","Dark Souls III",0.073
+"11","Mass Effect 3",0.072
+"12","Halo 4",0.07
+"13","BioShock Infinite",0.07
+"14","Fallout: New Vegas",0.067
+"15","Titanfall",0.067
+"16","Halo: Reach",0.066
+"17","Deus Ex: Human Revolution",0.063
+"18","Mass Effect 2",0.051
+"19","The Last of Us",0.049
+"20","Call of Duty: Modern Warfare 3",0.044
+"21","Super Mario Galaxy 2",0.043
+"22","Battlefield: Bad Company 2",0.042
+"23","Red Dead Redemption",0.039
+"24","Dead Island",0.039
+"25","Grand Theft Auto V",0.036
+"26","Just Cause 3",0.035
+"27","Batman: Arkham Knight",0.034
+"28","BioShock 2",0.032
+"29","Assassin's Creed: Unity",0.031
+"30","Battlefield 4",0.031
+"31","Far Cry 3",0.031
+"32","Middle-Earth: Shadow of Mordor",0.026
+"33","Halo: The Master Chief Collection",0.025
+"34","Payday 2",0.025
+"35","Call of Duty: Infinite Warfare",0.024
+"36","Call of Duty: Black Ops II",0.023
+"37","The Legend of Zelda: Skyward Sword",0.023
+"38","Final Fantasy XIII",0.023
+"39","Sid Meier's Civilization V",0.023
+"40","Saints Row IV",0.023
+"41","Crysis 2",0.023
+"42","Batman: Arkham City",0.022
+"43","Mortal Kombat X",0.022
+"44","Dead Space 3",0.022
+"45","Just Cause 2",0.021
+"46","Mario Kart 7",0.02
+"47","The Witcher 3: Wild Hunt",0.02
+"48","South Park: The Stick of Truth",0.02
+"49","Assassin's Creed III",0.019
+"50","Gears of War 3",0.019
+"51","L.A. Noire",0.019
+"52","Bulletstorm",0.019
+"53","Mario Tennis Open",0.019
+"54","Titanfall 2",0.019
+"55","StarCraft II: Wings of Liberty",0.018
+"56","Halo 5: Guardians",0.018
+"57","Far Cry: Primal",0.018
+"58","The Sims 4",0.017
+"59","Heavy Rain",0.017
+"60","inFAMOUS: Second Son",0.017
+"61","The Legend of Zelda: Majora's Mask 3D",0.016
+"62","Gran Turismo 5",0.015
+"63","Battlefield 4",0.015
+"64","The Order: 1886",0.015
+"65","Pokemon Ranger: Guardian Signs",0.015
+"66","Fable III",0.014
+"67","Pokemon Conquest",0.014
+"68","Borderlands: The Pre-Sequel",0.014
+"69","Assassin's Creed: Brotherhood",0.013
+"70","Mario Party 9",0.013
+"71","The Legend of Zelda: A Link Between Worlds",0.013
+"72","Guild Wars 2",0.013
+"73","Hitman: Absolution",0.013
+"74","Max Payne 3",0.013
+"75","Mafia II",0.013
+"76","Gears of War 4",0.013
+"77","Rocket League",0.013
+"78","Mass Effect 2",0.012
+"79","Mario Party: Star Rush",0.012
+"80","Assassin's Creed IV: Black Flag",0.011
+"81","Star Wars: The Old Republic",0.011
+"82","Killzone 3",0.011
+"83","Tom Clancy's Rainbow Six: Siege",0.011
+"84","Star Wars: The Force Unleashed II",0.011
+"85","Dead Rising 2",0.011
+"86","Metroid: Other M",0.011
+"87","Alan Wake",0.011
+"88","Watch Dogs 2",0.011
+"89","Metro: Last Light",0.01
+"90","Deus Ex: Mankind Divided",0.01
+"91","Saints Row: The Third",0.009
+"92","Aliens: Colonial Marines",0.009
+"93","Dishonored 2",0.009
+"94","Assassin's Creed Syndicate",0.008
+"95","Injustice: Gods Among Us",0.008
+"96","Theatrhythm: Final Fantasy",0.008
+"97","World of Warcraft: Legion",0.008
+"98","Grand Theft Auto V",0.007
+"99","Uncharted 4: A Thief's End",0.007
+"100","Splatoon",0.007
+"101","Assassin's Creed: Revelations",0.007
+"102","Tom Clancy's The Division",0.007
+"103","Assassin's Creed IV: Black Flag",0.007
+"104","Until Dawn",0.007
+"105","Beyond: Two Souls",0.007
+"106","Project CARS",0.007
+"107","Forza Horizon 3",0.007
+"108","Street Fighter V",0.007
+"109","The Elder Scrolls Online",0.007
+"110","Kingdoms of Amalur: Reckoning",0.007
+"111","Prince of Persia: The Forgotten Sands",0.007
+"112","Assassin's Creed II",0.007
+"113","Theatrhythm Final Fantasy: Curtain Call",0.007
+"114","Sid Meier's Civilization: Beyond Earth",0.007
+"115","Battleborn",0.007
+"116","XCOM 2",0.007
+"117","Diablo III",0.006
+"118","Mafia III",0.006
+"119","Medal of Honor: Warfighter",0.006
+"120","Rock Band 3",0.006
+"121","DmC: Devil May Cry",0.006
+"122","XCOM: Enemy Unknown",0.006
+"123","Quantum Break",0.006
+"124","Metro 2033",0.006
+"125","Batman: Arkham City",0.006
+"126","Assassin's Creed: Rogue",0.006
+"127","Madden NFL 13",0.005
+"128","Need for Speed: Hot Pursuit",0.005
+"129","Metal Gear Rising: Revengeance",0.005
+"130","Resident Evil: Operation Raccoon City",0.005
+"131","ModNation Racers",0.005
+"132","Crackdown 2",0.005
+"133","Castlevania: Lords of Shadow",0.005
+"134","Sonic Free Riders",0.005
+"135","Darksiders II",0.005
+"136","Dead Island: Riptide",0.005
+"137","Alice: Madness Returns",0.005
+"138","Alpha Protocol",0.005
+"139","Wolfenstein: The Old Blood",0.005
+"140","Donkey Kong Country Returns",0.004
+"141","LittleBigPlanet 2",0.004
+"142","Gears of War: Ultimate Edition",0.004
+"143","Skate 3",0.004
+"144","Halo: Combat Evolved Anniversary",0.004
+"145","Kinect: Disneyland Adventures",0.004
+"146","God of War: Ascension",0.004
+"147","Madden NFL 25",0.004
+"148","Dead Rising 3",0.004
+"149","Gears of War: Judgment",0.004
+"150","UFC Undisputed 2010",0.004
+"151","Tom Clancy's Splinter Cell: Blacklist",0.004
+"152","Sniper Elite V2",0.004
+"153","Army of Two: The 40th Day",0.004
+"154","Total War: Rome II",0.004
+"155","Dragon Ball: Xenoverse 2",0.004
+"156","Catherine",0.004
+"157","Scribblenauts: Unlimited",0.004
+"158","Assassin's Creed: Brotherhood",0.004
+"159","Final Fantasy IV: The Complete Collection",0.004
+"160","MX vs. ATV: Alive",0.004
+"161","Batman: Arkham Origins Blackgate",0.004
+"162","Green Day: Rock Band",0.004
+"163","Star Fox: Zero",0.004
+"164","Batman: Arkham VR",0.004
+"165","Wildstar",0.004
+"166","Epic Mickey",0.003
+"167","Madden NFL 12",0.003
+"168","Need for Speed: The Run",0.003
+"169","StarCraft II: Heart of the Swarm",0.003
+"170","Resistance 3",0.003
+"171","Naruto Shippuden: Ultimate Ninja Storm 4",0.003
+"172","Guitar Hero: Warriors of Rock",0.003
+"173","Resident Evil: Revelations",0.003
+"174","Borderlands: The Handsome Collection",0.003
+"175","Bayonetta 2",0.003
+"176","Assassin's Creed: Revelations",0.003
+"177","Napoleon: Total War",0.003
+"178","Enslaved: Odyssey to the West",0.003
+"179","Spec Ops: The Line",0.003
+"180","Naughty Bear",0.003
+"181","Mirror's Edge Catalyst",0.003
+"182","Castlevania: Lords of Shadow 2",0.003
+"183","Red Orchestra 2: Heroes of Stalingrad",0.003
+"184","Forza Motorsport 4",0.002
+"185","Gran Turismo 6",0.002
+"186","Killzone: Shadow Fall",0.002
+"187","Mario vs. Donkey Kong: Mini-Land Mayhem!",0.002
+"188","NBA 2K14",0.002
+"189","Paper Mario: Sticker Star",0.002
+"190","The Sims 3",0.002
+"191","DriveClub",0.002
+"192","Metal Gear Solid: Peace Walker",0.002
+"193","Kinect Star Wars",0.002
+"194","Mario Party 10",0.002
+"195","Tom Clancy's Ghost Recon: Future Soldier",0.002
+"196","Plants vs. Zombies",0.002
+"197","Plants vs. Zombies: Garden Warfare",0.002
+"198","EA Sports UFC",0.002
+"199","Driver: San Francisco",0.002
+"200","EA Sports UFC 2",0.002
+"201","Wii Play: Motion",0.002
+"202","Michael Jackson: The Experience",0.002
+"203","The Sims 3",0.002
+"204","Resident Evil: Revelations",0.002
+"205","MLB 14: The Show",0.002
+"206","Kirby's Dream Collection: Special Edition",0.002
+"207","Rayman Legends",0.002
+"208","Lollipop Chainsaw",0.002
+"209","The Sims 3: Generations",0.002
+"210","NHL 16",0.002
+"211","Red Steel 2",0.002
+"212","Tatsunoko vs. Capcom: Ultimate All-Stars",0.002
+"213","Kirby and the Rainbow Curse",0.002
+"214","Rock Band 4",0.002
+"215","F.E.A.R. 3",0.002
+"216","Transformers: Fall of Cybertron",0.002
+"217","Spider-Man: Shattered Dimensions",0.002
+"218","Max Payne 3",0.002
+"219","Metal Gear Solid: The Legacy Collection",0.002
+"220","Madden NFL Football",0.002
+"221","GRID 2",0.002
+"222","Supreme Commander 2",0.002
+"223","Sniper: Ghost Warrior 2",0.002
+"224","Fable: The Journey",0.002
+"225","Prison Break: The Conspiracy",0.002
+"226","Total War: Attila",0.002
+"227","The Sims 4: Get Together",0.002
+"228","Arcania: Gothic 4",0.002
+"229","Darksiders II",0.002
+"230","Watch Dogs",0.002
+"231","The Sims 4: City Living",0.002
+"232","Resident Evil 6",0.002
+"233","DuckTales: Remastered",0.002
+"234","Homefront: The Revolution",0.002
+"235","New Super Mario Bros. 2",0.001
+"236","Uncharted 3: Drake's Deception",0.001
+"237","Luigi's Mansion: Dark Moon",0.001
+"238","Animal Crossing: Happy Home Designer",0.001
+"239","LEGO Harry Potter: Years 1-4",0.001
+"240","Need for Speed Rivals",0.001
+"241","Forza Horizon",0.001
+"242","Kirby: Triple Deluxe",0.001
+"243","Forza Motorsport 6",0.001
+"244","LEGO Star Wars III: The Clone Wars",0.001
+"245","Kirby's Return to Dreamland",0.001
+"246","Football Manager 2012",0.001
+"247","WWE '13",0.001
+"248","Assassin's Creed: Rogue",0.001
+"249","Kid Icarus: Uprising",0.001
+"250","WWE '12",0.001
+"251","Naruto Shippuden: Ultimate Ninja Storm 2",0.001
+"252","Captain Toad: Treasure Tracker",0.001
+"253","WWE 2K15",0.001
+"254","WWE 2K14",0.001
+"255","UFC Undisputed 3",0.001
+"256","ZombiU",0.001
+"257","God of War: Ghost of Sparta",0.001
+"258","NCAA Football 12",0.001
+"259","Kirby: Mass Attack",0.001
+"260","PlayStation All-Stars Battle Royale",0.001
+"261","The Tomb Raider Trilogy",0.001
+"262","Xenoblade Chronicles X",0.001
+"263","Tiger Woods PGA Tour 11",0.001
+"264","DJ Hero 2",0.001
+"265","Killzone: Mercenary",0.001
+"266","Golden Sun: Dark Dawn",0.001
+"267","SoulCalibur V",0.001
+"268","Ace Combat: Assault Horizon",0.001
+"269","MLB 13: The Show",0.001
+"270","Persona Q: Shadow of the Labyrinth",0.001
+"271","NHL 12",0.001
+"272","James Bond 007: Blood Stone",0.001
+"273","The Sims: Medieval",0.001
+"274","Top Spin 4",0.001
+"275","Terraria",0.001
+"276","NHL 13",0.001
+"277","Fist of the North Star: Ken's Rage",0.001
+"278","The Fight: Lights Out",0.001
+"279","NHL 14",0.001
+"280","StarCraft II: Legacy of the Void",0.001
+"281","Rory McIlroy PGA Tour",0.001
+"282","Bleach: Soul Resurreccion",0.001
+"283","Plants vs. Zombies: Garden Warfare 2",0.001
+"284","MotorStorm: Apocalypse",0.001
+"285","One Piece: Pirate Warriors 3",0.001
+"286","Silent Hill: Downpour",0.001
+"287","Red Faction: Armageddon",0.001
+"288","Child of Eden",0.001
+"289","Naruto Shippuden: Ultimate Ninja Storm Revolution",0.001
+"290","Resistance: Burning Skies",0.001
+"291","The Wonderful 101",0.001
+"292","No More Heroes 2: Desperate Struggle",0.001
+"293","Armored Core V",0.001
+"294","Dungeon Siege III",0.001
+"295","Metal Gear Solid: Snake Eater 3D",0.001
+"296","EA Sports MMA",0.001
+"297","BioShock The Collection",0.001
+"298","TrackMania Turbo",0.001
+"299","Company of Heroes 2",0.001
+"300","World of Final Fantasy",0.001
+"301","NHL 17",0.001
+"302","Dragon Ball Z: Extreme Butoden",0.001
+"303","Binary Domain",0.001
+"304","Dead Rising 2: Off the Record",0.001
+"305","Persona 4: Dancing All Night",0.001
+"306","Ultimate Marvel vs. Capcom 3",0.001
+"307","Call of Juarez: The Cartel",0.001
+"308","Dead to Rights: Retribution",0.001
+"309","El Shaddai: Ascension of the Metatron",0.001
+"310","Army of Two: The Devil's Cartel",0.001
+"311","Tropico 4",0.001
+"312","Hunted: The Demon's Forge",0.001
+"313","The Bureau: XCOM Declassified",0.001
+"314","X-Men: Destiny",0.001
+"315","NBA Live 15",0.001
+"316","Risen 2: Dark Waters",0.001
+"317","Worms: Battle Islands",0.001
+"318","Dragon Ball: Fusions",0.001
+"319","Lost Planet 3",0.001
+"320","Captain America: Super Soldier",0.001
+"321","The Lord of the Rings: War in the North",0.001
+"322","MindJack",0.001
+"323","Stronghold 3",0.001
+"324","Dragon Ball: Origins 2",0.001
+"325","Robinson: The Journey",0.001
+"326","Fat Princess: Fistful of Cake",0.001
+"327","Darkspore",0.001
+"328","Dementium II",0.001
+"329","Sakura Wars: So Long, My Love",0.001
+"330","Sacred 3",0.001
+"331","Tom Clancy's Ghost Recon: Predator",0.001
+"332","EVE: Valkyrie",0.001
+"333","Bejeweled 3",0.001
+"334","Killing Floor 2 ",0.001
+"335","Kinect Adventures!",0
+"336","Just Dance 3",0
+"337","Just Dance 2",0
+"338","Just Dance 4",0
+"339","New Super Luigi U",0
+"340","Forza Motorsport 5",0
+"341","Pro Evolution Soccer 2012",0
+"342","Kingdom Hearts 3D: Dream Drop Distance",0
+"343","Pro Evolution Soccer 2013",0
+"344","Assassin's Creed III: Liberation",0
+"345","NCAA Football 14",0
+"346","NCAA Football 13",0
+"347","Pro Evolution Soccer 2014",0
+"348","Naruto Shippuden: Ultimate Ninja Storm 3",0
+"349","The Witcher 2: Assassins of Kings",0
+"350","Tiger Woods PGA Tour 12: The Masters",0
+"351","Dissidia 012: Duodecim Final Fantasy",0
+"352","Dance Central 3",0
+"353","pro evolution soccer 2011",0
+"354","UFC Personal Trainer: The Ultimate Fitness System",0
+"355","Raving Rabbids: Travel in Time",0
+"356","Naruto Shippuden: Ultimate Ninja Storm Generations",0
+"357","Sengoku Basara: Samurai Heroes",0
+"358","Shin Megami Tensei IV",0
+"359","Disgaea 4: A Promise Unforgotten",0
+"360","Doom 3 BFG Edition",0
+"361","Pro Evolution Soccer 2012",0
+"362","Gravity Rush",0
+"363","Sly Cooper: Thieves in Time",0
+"364","Tiger Woods PGA Tour 13",0
+"365","Sesame Street: Once Upon A Monster",0
+"366","Unit 13",0
+"367","Resident Evil: The Mercenaries 3D",0
+"368","Tetris Axis",0
+"369","Until Dawn: Rush of Blood",0
+"370","Sword Art Online: Lost Song",0
+"371","One Piece: Burning Blood",0
+"372","Tom Clancy's Ghost Recon: Shadow Wars",0
+"373","Hatsune Miku: Project Diva F 2nd",0
+"374","Operation Flashpoint: Red River",0
+"375","F1 Race Stars",0
+"376","Dragon Ball Z: Battle of Z",0
+"377","Front Mission Evolved",0
+"378","Disgaea 5: Alliance of Vengeance",0
+"379","One Piece: Unlimited World Red",0
+"380","Patapon 3",0
+"381","Family Guy: Back to the Multiverse",0
+"382","Anno 2205",0
+"383","Spider-Man: Edge of Time",0
+"384","Sid Meier's Civilization VI",0
+"385","Ace Combat: Assault Horizon Legacy",0
+"386","NBA Live 14",0
+"387","Lumines: Electronic Symphony",0
+"388","Spirit Camera: The Cursed Memoir",0
+"389","Code Name: S.T.E.A.M.",0
+"390","Disgaea D2: A Brighter Darkness",0
+"391","de Blob 2",0
+"392","Apache: Air Assault",0
+"393","Earth Defense Force: Insect Armageddon",0
+"394","Sword Art Online: Hollow Realization",0
+"395","Dead or Alive Paradise",0
+"396","MotoGP 10/11",0
+"397","Deception IV: Blood Ties",0
+"398","Conduit 2",0
+"399","RIGS: Mechanized Combat League",0
+"400","Scribblenauts Unmasked: A DC Comics Adventure",0
+"401","Yaiba: Ninja Gaiden Z",0
+"402","Risen 3: Titan Lords",0
+"403","Toy Soldiers: War Chest",0
+"404","Cities XL 2012",0
+"405","Metroid Prime: Federation Force",0
+"406","Duke Nukem 3D: 20th Anniversary World Tour",0
