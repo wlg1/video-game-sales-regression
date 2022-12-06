@@ -9,7 +9,8 @@ from serpapi.google_search_results import GoogleSearchResults
 import pdb, traceback, sys
 
 def main():
-  GoogleSearchResults.SERP_API_KEY = "3d42b081b7807b6f9c6a37504613b07a02f5f9b00b6aed88731ff9483e161bc2"
+  # Enter your account's serpapi key found in: https://serpapi.com/manage-api-key
+  GoogleSearchResults.SERP_API_KEY = ""
   months = {'January':1, 'February':2, 'March':3, 'April':4, 'May':5, 'June':6, 'July':7,'August':8,'September':9, 'October':10, 'November':11,'December':12}
   platform_altnames = {'PS3':'PlayStation 3', 'PS4':'PlayStation 4', 'PSP':'PlayStation Portable'}
 
