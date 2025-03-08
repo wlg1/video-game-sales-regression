@@ -1,4 +1,4 @@
-# video-game-sales-regression
+# Regression Analysis on Video Game Sales using Unstructured Data from Reddit
 
 Project summary: Employed web APIs to scrap Reddit posts and semi-structured Wikipedia infoboxes. Cleaned and explored data, then ﬁt models applicable for business decisions in marketing and ﬁnance.
 
